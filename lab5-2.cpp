@@ -35,7 +35,7 @@ cout<<"You get an A!"<<endl;
 // if average in range 80-90
 else if(average<=90 && average>=80)
 // Print you get an B
-cout<<"You get a B!"<<endl;
+cout<<"You get a B."<<endl;
 // If average in range 60-79
 else if(average<=79 && average>=60)
 // Print you passed
